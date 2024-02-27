@@ -9,6 +9,4 @@
  [<img src="https://img.shields.io/badge/TanbinHasan-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://profile-summary-for-github.com/user/TanbinHasan) 
  [<img src="https://img.shields.io/badge/BlackIce666-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://codeforces.com/profile/BlackIce666)
   [<img src="https://img.shields.io/badge/BlackIce666-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://atcoder.jp/users/BlackIce666) 
- [<img src="https://img.shields.io/badge/tanbin_hasan-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://www.codechef.com/users/tanbin_hasan) 
-  
-![Profile views](https://gpvc.arturio.dev/TanbinHasan)
+ [<img src="https://img.shields.io/badge/tanbin_hasan-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://www.codechef.com/users/tanbin_hasan)
